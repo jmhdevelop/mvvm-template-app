@@ -36,7 +36,6 @@
 						</dict>
 						<key>Nodes</key>
 						<array>
-							<string>Package.swift</string>
 							<string>ViewController.swift:comments</string>
 							<string>ViewController.swift:imports:importCocoa</string>
 							<string>ViewController.swift:implementation(___FILEBASENAME___: UIViewController)</string>
@@ -69,21 +68,15 @@
 						</dict>
 						<key>Nodes</key>
 						<array>
-							<string>Package.swift</string>
 							<string>ContentView.swift</string>
 							<string>Preview Content/Preview Assets.xcassets</string>
+							<string>Package.swift</string>
 							<string>SceneDelegate.swift:imports:importSwiftUI</string>
 							<string>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body</string>
 							<string>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body:windowScene</string>
 						</array>
 						<key>Definitions</key>
 						<array>
-							<dict>
-								<key>SortOrder</key>
-								<integer>98</integer>
-								<key>Path</key>
-								<string>Package.swift</string>
-							</dict>
 							<dict>
 								<key>SortOrder</key>
 								<integer>99</integer>
@@ -97,6 +90,12 @@
 								<string>Preview Assets.xcassets</string>
 								<key>Group</key>
 								<string>Preview Content</string>
+							</dict>
+							<dict>
+								<key>SortOrder</key>
+								<integer>101</integer>
+								<key>Path</key>
+								<string>Package.swift</string>
 							</dict>
 							<string>
 // Create the SwiftUI view that provides the window contents.
