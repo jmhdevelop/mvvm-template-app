@@ -1,2 +1,2 @@
-# mvvm-template-app
+# MVVM Template App
  
