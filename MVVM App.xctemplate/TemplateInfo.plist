@@ -32,38 +32,6 @@
 						<key>RequiredOptions</key>
 						<dict>
 							<key>userInterface</key>
-							<string>Storyboard</string>
-						</dict>
-						<key>Nodes</key>
-						<array>
-							<string>ViewController.swift:comments</string>
-							<string>ViewController.swift:imports:importCocoa</string>
-							<string>ViewController.swift:implementation(___FILEBASENAME___: UIViewController)</string>
-							<string>ViewController.swift:implementation:methods:viewDidLoad(override func viewDidLoad(\))</string>
-							<string>ViewController.swift:implementation:methods:viewDidLoad:super</string>
-							<string>Info.plist:UIMainStoryboardFile</string>
-							<string>Info.plist:UIApplicationSceneManifest:UISceneStoryboardFile</string>
-							<string>Base.lproj/Main.storyboard</string>
-						</array>
-						<key>Definitions</key>
-						<dict>
-							<key>Base.lproj/Main.storyboard</key>
-							<dict>
-								<key>Path</key>
-								<string>Main.storyboard</string>
-								<key>SortOrder</key>
-								<integer>98</integer>
-							</dict>
-							<key>Info.plist:UIMainStoryboardFile</key>
-							<string>&lt;key&gt;UIMainStoryboardFile&lt;/key&gt;
-                            &lt;string&gt;Main&lt;/string&gt;
-                        </string>
-						</dict>
-					</dict>
-					<dict>
-						<key>RequiredOptions</key>
-						<dict>
-							<key>userInterface</key>
 							<string>SwiftUI</string>
 						</dict>
 						<key>Nodes</key>
@@ -90,12 +58,6 @@
 								<string>Preview Assets.xcassets</string>
 								<key>Group</key>
 								<string>Preview Content</string>
-							</dict>
-							<dict>
-								<key>SortOrder</key>
-								<integer>101</integer>
-								<key>Path</key>
-								<string>Package.swift</string>
 							</dict>
 							<string>
 // Create the SwiftUI view that provides the window contents.
