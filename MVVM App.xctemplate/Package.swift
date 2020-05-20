@@ -1,4 +1,5 @@
-// swift-tools-version:5.1
+//___FILEHEADER___
+
 import PackageDescription
 
 let package = Package(
