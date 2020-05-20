@@ -36,6 +36,7 @@
 						</dict>
 						<key>Nodes</key>
 						<array>
+							<string>Package.swift</string>
 							<string>ViewController.swift:comments</string>
 							<string>ViewController.swift:imports:importCocoa</string>
 							<string>ViewController.swift:implementation(___FILEBASENAME___: UIViewController)</string>
@@ -76,15 +77,19 @@
 							<string>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body:windowScene</string>
 						</array>
 						<key>Definitions</key>
-						<dict>
-							<key>ContentView.swift</key>
+						<array>
+							<dict>
+								<key>SortOrder</key>
+								<integer>98</integer>
+								<key>Path</key>
+								<string>Package.swift</string>
+							</dict>
 							<dict>
 								<key>SortOrder</key>
 								<integer>99</integer>
 								<key>Path</key>
 								<string>ContentView.swift</string>
 							</dict>
-							<key>Preview Content/Preview Assets.xcassets</key>
 							<dict>
 								<key>SortOrder</key>
 								<integer>100</integer>
@@ -93,12 +98,10 @@
 								<key>Group</key>
 								<string>Preview Content</string>
 							</dict>
-							<key>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body</key>
 							<string>
 // Create the SwiftUI view that provides the window contents.
 let contentView = ContentView()
 </string>
-							<key>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body:windowScene</key>
 							<string>
 // Use a UIHostingController as window root view controller.
 if let windowScene = scene as? UIWindowScene {
@@ -107,9 +110,8 @@ if let windowScene = scene as? UIWindowScene {
     self.window = window
     window.makeKeyAndVisible()
 }</string>
-							<key>*:imports:importSwiftUI</key>
 							<string>import SwiftUI</string>
-						</dict>
+						</array>
 						<key>Targets</key>
 						<array>
 							<dict>
