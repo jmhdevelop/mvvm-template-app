@@ -38,7 +38,6 @@
 						<array>
 							<string>ContentView.swift</string>
 							<string>Preview Content/Preview Assets.xcassets</string>
-							<string>Package.swift</string>
 							<string>SceneDelegate.swift:imports:importSwiftUI</string>
 							<string>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body</string>
 							<string>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body:windowScene</string>
